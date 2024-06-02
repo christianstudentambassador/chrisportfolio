@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/christeam.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "re:Think 2023",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "An event I organized on “The Future of Psychology: Discovering Limitless Possibilities”. Proud to lead this initiative that explored the most exciting innovations and disruptive technologies in psychology.",
+    url: "https://www.facebook.com/AEPsBolivia/posts/pfbid0uTXMigxXTt2cQV5Bcx3xTKuPDfaqhtx1Ek8WVSbeVtSvwy5Rdrnd2paA3M5BdpGml",
   },
   {
-    title: "Web Development for Beginners",
+    title: "CEO & Founder at AEPs Bolivia",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I founded AEPs Bolivia and we celebrate its 2nd anniversary in 2023, a psychology student organization that promotes professional and community growth in Bolivia..",
+    url: "https://www.facebook.com/photo/?fbid=196680719991799&set=pob.100089496177340",
   },
   {
-    title: "My Resume Site",
+    title: "My Startup",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I founded a psychology startup with the vision of incorporating AI to optimize human resources processes and revolutionize the workplace.",
+    url: "https://www.linkedin.com/company/mindspace-io/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Speaker at events",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "I am a speaker at tech events in my MLSA community and also at psychology events, sharing knowledge and fostering learning and collaboration in both areas.",
+    url: "https://www.facebook.com/share/p/PhzkHcy2YQF3vsyN/?mibextid=oFDknk",
   },
 ];
 
