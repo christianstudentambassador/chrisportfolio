@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Christian Escobar",
-  title: "Psychologist",
+  title: "Psychologist and Web Developer",
   email: "christianescobar.alx@gmail.com",
   gitHub: "christianxescobar",
   instagram: "christianxescobar",
